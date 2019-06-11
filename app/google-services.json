@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254586934586",
+    "firebase_url": "https://calculadora-aatt.firebaseio.com",
+    "project_id": "calculadora-aatt",
+    "storage_bucket": "calculadora-aatt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254586934586:android:7738fe742be9f442",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254586934586-aihe849jacm6tlhanphcgpcd8v5995m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJ579lwdpl-mPg3Fqa6DlxTonnwAsUK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254586934586-aihe849jacm6tlhanphcgpcd8v5995m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
