@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "254586934586",
-    "firebase_url": "https://calculadora-aatt.firebaseio.com",
-    "project_id": "calculadora-aatt",
-    "storage_bucket": "calculadora-aatt.appspot.com"
+    "project_number": "962531739416",
+    "firebase_url": "https://calculadora-y-login.firebaseio.com",
+    "project_id": "calculadora-y-login",
+    "storage_bucket": "calculadora-y-login.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:254586934586:android:7738fe742be9f442",
+        "mobilesdk_app_id": "1:962531739416:android:5c7c47fd6bdac36f",
         "android_client_info": {
-          "package_name": "com.example.login"
+          "package_name": "com.example.calculadora"
         }
       },
       "oauth_client": [
         {
-          "client_id": "254586934586-aihe849jacm6tlhanphcgpcd8v5995m5.apps.googleusercontent.com",
+          "client_id": "962531739416-lfkfvu5hk3fofguddonn3mdma27vppvb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAkJ579lwdpl-mPg3Fqa6DlxTonnwAsUK0"
+          "current_key": "AIzaSyAT_sW2PjF9rKjPzFhiof9ft4d4JcJKYNw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "254586934586-aihe849jacm6tlhanphcgpcd8v5995m5.apps.googleusercontent.com",
+              "client_id": "962531739416-lfkfvu5hk3fofguddonn3mdma27vppvb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
